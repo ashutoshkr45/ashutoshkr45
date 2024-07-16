@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **kumarashutosh9694@gmail.com**
 
-- ⚡ Fun fact: **I love coding to the rhythm of my favorite tunes 🎧💻😊**
+- ⚡ Fun fact: **I love coding to the rhythm of my favorite tunes! 🎧💻😄**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
