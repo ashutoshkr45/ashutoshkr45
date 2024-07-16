@@ -9,6 +9,10 @@
 
 - 👯 I’m looking to collaborate on **Data Science Projects**
 
+- 📫 How to reach me **kumarashutosh9694@gmail.com**
+
+- ⚡ Fun fact **I love coding to the rhythm of my favorite tunes!🎧💻😊**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/ashutosh-kumar-79276423b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ashutosh-kumar-79276423b/" height="30" width="40" /></a>
