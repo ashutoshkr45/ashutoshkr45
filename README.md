@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ashutosh Kumar</h1>
-<h3 align="center">A Data Science Enthusiast from India</h3>
+<h3 align="center">A Data Science Enthusiast from India🇮🇳</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashutoshkr45&label=Profile%20views&color=0e75b6&style=flat" alt="ashutoshkr45" /> </p>
 
@@ -13,9 +13,9 @@
 
 - 👯 I’m looking to collaborate on **Data Science Projects**
 
-- 📫 How to reach me **kumarashutosh9694@gmail.com**
-
 - ⚡ Fun fact: **I love coding to the rhythm of my favorite tunes! 🎧💻😄**
+
+- 📫 How to reach me: **kumarashutosh9694@gmail.com**
 
 ---
 
