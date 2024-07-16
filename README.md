@@ -3,6 +3,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashutoshkr45&label=Profile%20views&color=0e75b6&style=flat" alt="ashutoshkr45" /> </p>
 
+---
+
+<p>Passionate about Data Science and Machine Learning, I'm a Master's student at IIT (ISM) Dhanbad. I love tackling analytical challenges and applying my knowledge to real-world problems. Always eager to learn and innovate, I'm looking for opportunities to contribute to impactful projects in Data Analytics, ML, and Deep Learning.</p>
+
 - 🔭 I’m currently working on **Data Science & Machine Learning**
 
 - 🌱 I’m currently learning **Deep Learning, NLP and Computer Vision**
@@ -12,26 +16,6 @@
 - 📫 How to reach me **kumarashutosh9694@gmail.com**
 
 - ⚡ Fun fact: **I love coding to the rhythm of my favorite tunes! 🎧💻😄**
-
----
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/106374579/160405252-80f2e5d1-9aa0-435f-9153-88b883e3f7c0.gif" alt="Data Science Animation" width="400"/>
-</p>
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ashutoshkr45&show_icons=true&locale=en&layout=compact" alt="ashutoshkr45" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ashutoshkr45&show_icons=true&locale=en" alt="ashutoshkr45" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashutoshkr45&" alt="ashutoshkr45" />
-</p>
 
 ---
 
@@ -82,5 +66,8 @@
 
 ---
 
-<h3 align="center">About Me</h3>
-<p align="center">Passionate about Data Science and Machine Learning, I'm a Master's student at IIT (ISM) Dhanbad. I love tackling analytical challenges and applying my knowledge to real-world problems. Always eager to learn and innovate, I'm looking for opportunities to contribute to impactful projects in Data Analytics, ML, and Deep Learning.</p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashutoshkr45&show_icons=true&locale=en&layout=compact" alt="ashutoshkr45" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ashutoshkr45&show_icons=true&locale=en" alt="ashutoshkr45" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashutoshkr45&" alt="ashutoshkr45" /></p>
