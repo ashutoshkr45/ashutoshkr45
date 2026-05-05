@@ -1,19 +1,15 @@
 <h1 align="center">Hi 👋, I'm Ashutosh Kumar</h1>
-<h3 align="center">A Data Science Enthusiast from India</h3>
+<!-- <h3 align="center">M.Tech (Research) | Medical Imaging & Weakly Supervised Learning</h3> -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashutoshkr45&label=Profile%20views&color=0e75b6&style=flat" alt="ashutoshkr45" /> </p>
 
 ---
 
-<p>Passionate about Data Science and Machine Learning, I'm a Master's student at IIT (ISM) Dhanbad. I love tackling analytical challenges and applying my knowledge to real-world problems. Always eager to learn and innovate, I'm looking for opportunities to contribute to impactful projects in Data Analytics, ML, and Deep Learning.</p>
+<p>I am currently a Research student working in medical image analysis at CDS, IISc Bangalore, focusing on weakly supervised semantic segmentation and data-efficient deep learning methods. My work aims to build reliable models that can learn from limited annotations and be applicable in real-world clinical settings. Previously, I completed my Masters in Mathematics and Computing from IIT Dhanbad.</p>
 
-- 🔭 I’m currently working on **Data Science & Machine Learning**
+- 🔭 I’m currently working on **Weakly Supervised Semantic Segmentation (Medical Imaging)**
 
-- 🌱 I’m currently learning **Deep Learning, NLP and Computer Vision**
-
-- 👯 I’m looking to collaborate on **Data Science Projects**
-
-- ⚡ Fun fact: **I love coding to the rhythm of my favorite tunes! 🎧💻😄**
+- 🌱 I’m currently exploring **Deep Learning for Medical Image Analysis**
 
 - 📫 How to reach me: **kumarashutosh9694@gmail.com**
 
