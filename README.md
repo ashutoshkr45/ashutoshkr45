@@ -11,8 +11,6 @@
 
 - 🌱 I’m currently exploring **Deep Learning for Medical Image Analysis**
 
-- 📫 How to reach me: **kumarashutosh9694@gmail.com**
-
 ---
 
 <h3 align="left">Connect with me:</h3>
@@ -62,8 +60,8 @@
 
 ---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashutoshkr45&show_icons=true&locale=en&layout=compact" alt="ashutoshkr45" /></p>
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashutoshkr45&show_icons=true&locale=en&layout=compact" alt="ashutoshkr45" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ashutoshkr45&show_icons=true&locale=en" alt="ashutoshkr45" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashutoshkr45&" alt="ashutoshkr45" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashutoshkr45&" alt="ashutoshkr45" /></p> -->
